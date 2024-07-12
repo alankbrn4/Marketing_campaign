@@ -17,12 +17,12 @@ La adopción de estas máquinas contribuye significativamente a la reducción de
 
 ## Marco Teórico
 - **Tecnología en Máquinas de Vending:**
-  - Integración de pagos sin contacto y móviles&#8203;:citation[oaicite:6]{index=6}&#8203;&#8203;:citation[oaicite:5]{index=5}&#8203;.
-  - Recopilación de datos en tiempo real para mejorar la gestión de inventarios y personalización del servicio&#8203;:citation[oaicite:4]{index=4}&#8203;.
+  - Integración de pagos sin contacto y móviles([Refreshment Systems](https://www.refreshmentsystems.co.uk/the-future-of-vending-machines-innovations-and-trends/), [Grand View Research](https://www.grandviewresearch.com/industry-analysis/retail-vending-machine-market)).
+  - Recopilación de datos en tiempo real para mejorar la gestión de inventarios y personalización del servicio([Technavio](https://www.technavio.com/report/vending-machine-market-industry-analysis)).
 - **Sostenibilidad:**
-  - Iniciativas de reducción de emisiones de carbono y apoyo a comunidades locales a través de productos frescos y locales&#8203;:citation[oaicite:3]{index=3}&#8203;&#8203;:citation[oaicite:2]{index=2}&#8203;.
+  - Iniciativas de reducción de emisiones de carbono y apoyo a comunidades locales a través de productos frescos y locales([Refreshment Systems](https://www.refreshmentsystems.co.uk/the-future-of-vending-machines-innovations-and-trends/)).
 - **Mercado de Agua Reutilizable:**
-  - Crecimiento en el uso de estaciones de recarga de agua debido a la preocupación ambiental y la economía circular&#8203;:citation[oaicite:1]{index=1}&#8203;&#8203;:citation[oaicite:0]{index=0}&#8203;.
+  - Crecimiento en el uso de estaciones de recarga de agua debido a la preocupación ambiental y la economía circular([Market Research Future](https://www.marketresearchfuture.com/reports/water-refill-station-market)).
 
 ## Metodología
 - **Investigación Cualitativa:**
@@ -46,10 +46,20 @@ Las máquinas de vending para el llenado de garrafones de agua representan una s
 5. Market Research Future. "Global Water Refill Station Market Size Report". [MRFR](https://www.marketresearchfuture.com/reports/water-refill-station-market)
 
 ## Imágenes
-![Máquina de Vending de Agua](https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg)
-![Máquina de Vending Moderna](https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg)
-![Kiosco de Vending](https://manantialwater.com.mx/wp-content/uploads/2023/01/recuadro-kiosco.jpg)
-![Despachador de Agua](https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-de-agua-hopper-mediano.jpg)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg" alt="Máquina de Vending de Agua" width="200"/>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg" alt="Máquina de Vending Moderna" width="200"/>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://manantialwater.com.mx/wp-content/uploads/2023/01/recuadro-kiosco.jpg" alt="Kiosco de Vending" width="200"/>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-de-agua-hopper-mediano.jpg" alt="Despachador de Agua" width="200"/>
+  </div>
+</div>
 
 ## Anuncios de Marketing
 
@@ -94,8 +104,11 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 ---
 **Instagram/Facebook:**
 ---
-**Imagen:** ![Máquina de Vending Moderna](https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg)
-
+**Imagen:** 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg" alt="Máquina de Vending Moderna" width="200"/>
+  </div>
 **Texto:**
 ¡Transforma tu forma de consumir agua con nuestras innovadoras máquinas de vending! 🌍💧
 - Agua potable de alta calidad
