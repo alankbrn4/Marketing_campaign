@@ -46,6 +46,18 @@ Las máquinas de vending para el llenado de garrafones de agua representan una s
 5. Market Research Future. "Global Water Refill Station Market Size Report". [MRFR](https://www.marketresearchfuture.com/reports/water-refill-station-market)
 
 ## Imágenes
+
+<div class="container-fluid cew-9">
+ <div class="row">
+  <div class="col">
+    <img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg" alt="Máquina de Vending de Agua" width="200"/>
+  </div>
+  <div class="col">
+    <img src="https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg" alt="Máquina de Vending Moderna" width="200"/>
+  </div>
+ </div>
+</div>
+
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
     <img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg" alt="Máquina de Vending de Agua" width="200"/>
