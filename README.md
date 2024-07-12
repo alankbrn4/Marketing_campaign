@@ -47,16 +47,27 @@ Las máquinas de vending para el llenado de garrafones de agua representan una s
 
 ## Imágenes
 
-<div class="container-fluid cew-9">
- <div class="row">
-  <div class="col">
-    <img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg" alt="Máquina de Vending de Agua" width="200"/>
-  </div>
-  <div class="col">
-    <img src="https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg" alt="Máquina de Vending Moderna" width="200"/>
-  </div>
- </div>
-</div>
+<table>
+<thead>
+<tr>
+  <th>Texto</th>
+  <th>Imagen</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>Test</td>
+  <td><img src="https://www.puritecequipos.com.mx/wp-content/uploads/2021/10/despachador-con-cambio-mei-chica.jpg" alt="Máquina de Vending de Agua" width="200"/></td>
+</tr>
+<tr>
+  <td>Descargar</td>
+  <td><img src="https://www.puritecdemexico.com/wp-content/uploads/2023/12/despachador-automatico-de-agua-negocio.jpg" alt="Máquina de Vending Moderna" width="200"/></td>
+</tr>
+<tr>
+  <td>Curso</td>
+  <td><img src="https://manantialwater.com.mx/wp-content/uploads/2023/01/recuadro-kiosco.jpg" alt="Kiosco de Vending" width="200"/></td>
+</tr>
+</tbody>
+</table>
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
