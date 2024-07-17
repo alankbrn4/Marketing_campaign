@@ -81,6 +81,8 @@ Visítanos en [Ubicación] y únete a la revolución del agua sostenible.
 Saludos,
 [Nombre de la Empresa]
 
+(Imagen1_correo_elcetronico.jpg)
+
 ---
 
 ### 2. Anuncio de Revista
@@ -96,6 +98,8 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 - **Fácil Acceso:** Disponibles en ubicaciones estratégicas cerca de ti.
 
 ¡Únete a nosotros y haz la diferencia hoy mismo!
+
+(Imagen2_anuncio_revista.jpg)
 
 ---
 
@@ -115,6 +119,8 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 - Ayuda a reducir el uso de plásticos desechables
 
 Descubre más en [link] y encuentra tu máquina más cercana. ¡Juntos por un mundo más sostenible! #AguaSostenible #VendingInnovador #ReduceReutilizaRecarga
+
+(Imagen3_post_redes_sociales.jpg)
 
 **Twitter:**
 ---
