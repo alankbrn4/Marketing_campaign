@@ -81,7 +81,7 @@ Visítanos en [Ubicación] y únete a la revolución del agua sostenible.
 Saludos,
 [Nombre de la Empresa]
 
-(Imagen1_correo_elcetronico.jpg)
+(Referencia: Imagen1_correo_elcetronico.jpg)
 
 ---
 
@@ -99,7 +99,7 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 
 ¡Únete a nosotros y haz la diferencia hoy mismo!
 
-(Imagen2_anuncio_revista.jpg)
+(Referencia: Imagen2_anuncio_revista.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 
 Descubre más en [link] y encuentra tu máquina más cercana. ¡Juntos por un mundo más sostenible! #AguaSostenible #VendingInnovador #ReduceReutilizaRecarga
 
-(Imagen3_post_redes_sociales.jpg)
+(Referencia: Imagen3_post_redes_sociales.jpg)
 
 **Twitter:**
 ---
