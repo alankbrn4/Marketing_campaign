@@ -83,6 +83,7 @@ Saludos,
 
 **(Gráfico propuesto: Imagen1_correo_elcetronico.jpg)**
 
+
 ---
 
 ### 2. Anuncio de Revista
@@ -100,6 +101,7 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 ¡Únete a nosotros y haz la diferencia hoy mismo!
 
 **(Gráfico propuesto: Imagen2_anuncio_revista.jpg)**
+
 
 ---
 
@@ -121,6 +123,7 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 Descubre más en [link] y encuentra tu máquina más cercana. ¡Juntos por un mundo más sostenible! #AguaSostenible #VendingInnovador #ReduceReutilizaRecarga
 
 **(Gráfico propuesto: Imagen3_post_redes_sociales.jpg)**
+
 
 **Twitter:**
 ---
