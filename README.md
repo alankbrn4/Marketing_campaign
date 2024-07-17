@@ -8,9 +8,9 @@ La necesidad creciente de reducir el uso de botellas plásticas desechables y fa
 ## Objetivos
 - **General:** Incrementar la adopción de máquinas de vending para el llenado de garrafones de agua, promoviendo prácticas sostenibles.
 - **Específicos:**
-  - Incrementar la conciencia sobre la sostenibilidad y la reducción de residuos plásticos.
-  - Facilitar el acceso a agua potable de alta calidad.
-  - Integrar tecnología avanzada para mejorar la experiencia del usuario.
+  1. Incrementar la conciencia sobre la sostenibilidad y la reducción de residuos plásticos.
+  2. Facilitar el acceso a agua potable de alta calidad.
+  3. Integrar tecnología avanzada para mejorar la experiencia del usuario.
 
 ## Justificación
 La adopción de estas máquinas contribuye significativamente a la reducción de residuos plásticos y promueve la sostenibilidad. Además, ofrecen una solución conveniente y económica para el acceso a agua potable, alineándose con las tendencias actuales de pago sin contacto y opciones saludables.
