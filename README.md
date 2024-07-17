@@ -62,7 +62,7 @@ Las máquinas de vending para el llenado de garrafones de agua representan una s
 
 ## Anuncios de Marketing
 
-### Correo Electrónico
+### 1. Correo Electrónico
 ---
 **Asunto:** ¡Descubre la Nueva Forma Sostenible de Llenar tus Garrafones de Agua!
 
@@ -83,7 +83,7 @@ Saludos,
 
 ---
 
-### Revista
+### 2. Anuncio de Revista
 ---
 **Título:** ¡Revoluciona tu Consumo de Agua con Nuestras Máquinas de Vending!
 
@@ -99,7 +99,7 @@ En [Nombre de la Empresa], nos enorgullece ofrecerte una solución innovadora y 
 
 ---
 
-### Redes Sociales
+### 3. Post Redes Sociales
 ---
 **Instagram/Facebook:**
 ---
